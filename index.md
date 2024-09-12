@@ -116,6 +116,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |vompserver|Unknown|✔|[Project page](https://www.vomp.tv/vomp.php)|[Documentation](https://www.vomp.tv/vomp.php)|
 |weatherforecast|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherforecast)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherforecast/blob/master/README)|
 |weatherng|Community maintained|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-weatherng)|[Documentation](https://github.com/vdr-projects/vdr-plugin-weatherng/blob/master/README)|
+|webbridge|Active maintainer|✔|[Project page](https://github.com/Zabrimus/vdr-plugin-webbridge)||
 |wirbelscan|Active maintainer|✔|[Project page](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|[Documentation](https://www.gen2vdr.de/wirbel/wirbelscan/index2.html)|
 |xineliboutput|Active maintainer|✔|[Project page](https://sourceforge.net/projects/xineliboutput/)|[Documentation](https://sourceforge.net/p/xineliboutput/git/ci/master/tree/README)|
 |xmltv2vdr|Active maintainer|✔|[Project page](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr)|[Documentation](https://github.com/vdr-projects/vdr-plugin-xmltv2vdr/blob/master/README)|
