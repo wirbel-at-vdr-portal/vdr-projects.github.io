@@ -133,6 +133,7 @@ This page is meant to provide an overview about where which VDR plugin is curren
 |libnetceiver|Active maintainer|✔|[Project page](https://github.com/vdr-projects/libnetceiver)|[Documentation](https://github.com/vdr-projects/libnetceiver/wiki)|
 |librepfunc|Active maintainer|✔|[Project page](https://github.com/wirbel-at-vdr-portal/librepfunc)|[Documentation](https://github.com/wirbel-at-vdr-portal/librepfunc/blob/main/repfunc.h)|
 |lircd2uinput|Active maintainer|✔|[Project page](https://github.com/seahawk1986/lircd2uinput)||
+|minisatip|Active maintainer|✔|[Project page](https://github.com/catalinii/minisatip)|[Documentation](https://github.com/catalinii/minisatip)|
 |Picons2VDR|Active maintainer|✔|[Project page](https://github.com/MegaV0lt/Picons2VDR)|[Documentation](https://github.com/MegaV0lt/Picons2VDR/blob/main/README.md)|
 |vdradmin-am|Active maintainer[*](https://github.com/vdr-projects/vdradmin-am/issues/1#issuecomment-1424003723)|✔|[Project page](https://github.com/vdr-projects/vdradmin-am)|[Documentation](https://github.com/vdr-projects/vdradmin-am/wiki)|
 |vdr-epg-daemon|Active maintainer|✔|[Project page](https://github.com/horchi/vdr-epg-daemon)|[Documentation](https://github.com/horchi/vdr-epg-daemon/blob/master/README)|
